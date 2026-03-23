@@ -1,4 +1,4 @@
-const text="Aspiring Web Developer";
+const text="";
 let i=0;
 
 function typing(){
